@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: #92d8a9;
+}
+
+header, h1{
+    background-color:#4B4E6D;
+    color: white;
+    text-align: center;
+}
+
+nav, a{
+    background-color:#4B4E6D;
+    text-align: center;
+    color: white;
+}
+
+article,p,h2{
+    color: white;
+}
+
+main, aside{
+    float: right;
+}
